@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:otp_auto_fill_app/send_otp.dart';
+import 'package:otp_auto_fill_app/send_otp.dart';                //this is the main package that is needed to make the app to read the otp
 
 void main() {
   runApp(const MyApp());
